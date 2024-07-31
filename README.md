@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React, React Native and Spring Boot.<br>🎯 Goals: Build a highly eficient mobile photo editor.<br><br>Currently I'm developing my mobile photo editor in React Native with use of custom native Java modules.</p>
+<p align="left">📚 I’m currently learning React, React Native, and Spring Boot.<br>🎯 Current Project: Developing a highly efficient mobile photo editor.<br><br> I’m building the photo editor in React Native and incorporating custom native Java modules for enhanced functionality. Additionally, I’m expanding my skills in web development and deepening my knowledge of the Java Spring Boot framework.</p>
 
 ###
 
