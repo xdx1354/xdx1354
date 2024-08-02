@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">📚 I’m currently learning React, React Native, and Spring Boot.<br>🎯 Current Project: Developing a highly efficient mobile photo editor.<br><br> I’m building the photo editor in React Native and incorporating custom native Java modules for enhanced functionality. Additionally, I’m expanding my skills in web development and deepening my knowledge of the Java Spring Boot framework.</p>
+<p align="left">📚 I’m currently learning React, React Native, and Spring Boot.<br>🎯 Current Projects: <br> - Highly efficient mobile photo editor. <br> - Electron-based desktop custom valuation calculator app.<br><br> 
+Studying Computer Engineering gave me a solid background and deeper understanding of programming and hardware. I have experience with low-level programming and hardware languages, although I decided to develop myself towards becoming a full-stack developer. During the last 3 years at the university, I learned backend development mainly in Java and C++. Since last year, I have been spending my free time learning frontend and mobile technologies.<br>
+I'm looking for new challenges and opportunities to gain knowledge and new skills.
+</p>
 
 ###
 
